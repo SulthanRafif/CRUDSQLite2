@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import com.example.crudsqlite2.R;
 
-class EditData extends Activity implements OnClickListener {
+public class EditData extends Activity implements OnClickListener {
 
     private DBDataSource dataSource;
 
